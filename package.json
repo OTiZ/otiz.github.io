@@ -58,7 +58,7 @@
     "webpack-s3-plugin": "^0.9.0"
   },
   "eslintConfig": {
-    "extends": "otiz/frontend",
+    "extends": "suddi/frontend",
     "rules": {
       "react/no-deprecated": "off",
       "react/no-array-index-key": "off"
