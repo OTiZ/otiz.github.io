@@ -31,16 +31,28 @@
     },
     "work": [
         {
-            "company": "<COMPANY_NAME>",
-            "position": "<POSITION>",
-            "website": "<COMPANY_WEBSITE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "summary": "<SUMMARY>",
+            "company": "Judson ISD",
+            "position": "Bus Driver",
+            "website": "http://judsonisd.org",
+            "startDate": "Oct. 2014",
+            "endDate": "Present",
+            "summary": "Drive the school bus safely, following all applicable laws and district administrative policies and regulations governing the transportation of students. Maintain discipline on the bus at all times, and report daily any violations or misconduct of the students to the school principal or assistant principal.",
             "highlights": [
-                "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
-                "<HIGHTLIGHT_3>"
+                "Assisted with transporting water to Veterans Memorial High School prior to completion of school construction.",
+                "Gave hands on instruction and assisted bus mechanics in the engine removal and replacement, during a holiday break, of a mission critical asset."
+            ]
+        }
+        {
+            "company": "Black Print Entertainment Inc.",
+            "position": "CEO/Manager",
+            "website": "http://blackprintent.com",
+            "startDate": "Sept. 2013",
+            "endDate": "Oct. 2016",
+            "summary": "Build and design over 5 websites using dynamic php web code language using MySQL Databases. Maintain budget for company operations. Scheduled Company Events. Manage client's performance portfolios. Schedule clients for performances. Scheduled supply for web store. Draft proposals for potential investors and clients. Overseen all marketing department operations.",
+            "highlights": [
+                "Developed/Designed/Distributed 7 mobile applications for iTunes and Google Play Stores.",
+                "Brokered Agreements and Coordinated with seperate venues 2 Concert events for over 15 artists in 2 cities.",
+                "Designed and Hosted 3 websites with Facebook and Twitter API intergration."
             ]
         }
     ],
