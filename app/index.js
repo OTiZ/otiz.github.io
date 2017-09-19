@@ -16,6 +16,7 @@ function getNavigation() {
         home: 'Home',
         about: 'About',
         work: 'Work',
+        volunteer: 'Volunteer',
         education: 'Education',
         skill: 'Skills',
         portfolio: 'Portfolio',
