@@ -11,7 +11,7 @@ const Entry = React.createClass({
     propTypes: {
         index: PropTypes.number.isRequired,
         total: PropTypes.number.isRequired,
-        entry: ResumePropTypes.work
+        entry: ResumePropTypes.volunteer
     },
 
     render: function () {
@@ -41,7 +41,7 @@ const Entry = React.createClass({
     }
 });
 
-const Work = React.createClass({
+const Volunteer = React.createClass({
     propTypes: {
         content: ResumePropTypes.volunteerSet
     },
