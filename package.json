@@ -53,8 +53,8 @@
     "react-modal": "^2.0.0",
     "react-router": "^4.0.0",
     "superagent": "^3.0.0",
-    "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.0.0",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2",
     "webpack-s3-plugin": "^0.9.0"
   },
   "eslintConfig": {
