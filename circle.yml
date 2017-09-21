@@ -4,6 +4,6 @@ machine:
 notify:
     webhooks:
         - url: http://bot.otiswhite.space/hooks
-deployment:
+deploy:
          command: |
           firebase deploy --token=$FIREBASE_TOKEN
