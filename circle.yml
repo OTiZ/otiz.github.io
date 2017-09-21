@@ -4,6 +4,14 @@ machine:
 notify:
     webhooks:
         - url: http://bot.otiswhite.space/hooks
-deploy:
+
+dependencies:
+  post:
+    - npm run bundle
+    - npm run bundle2
+
+deployment:
+         branch: master
+         name: Deploy Master to Firebase
          command: |
-          firebase deploy --token=$FIREBASE_TOKEN
+          - ./node_modules/.bin/firebase deploy --token=$FIREBASE_TOKEN
