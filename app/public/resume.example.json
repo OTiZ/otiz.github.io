@@ -73,13 +73,13 @@
     ],
     "education": [
         {
-            "institution": "<INSTITUTION_NAME>",
-            "area": "<AREA_OF_STUDY>",
-            "studyType": "<STUDY_TYPE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "gpa": "<GRADE_POINT_AVERAGE>",
-            "summary": "<SUMMARY>",
+            "institution": "University of Phoenix",
+            "area": "Bachelors",
+            "studyType": "Science Management (Business)",
+            "startDate": "Mar 2012",
+            "endDate": "Still Attending",
+            "gpa": "2.51",
+            "summary": "Currently completed 95% of the BSM program and obtained 114 credits. Received high scores in Upper Level Division courses, Organizational Behavior for Managers, Finance for Business, Macroeconomics, and Managing Change in the Workplace.",
             "courses": [
                 "<COURSE_1>",
                 "<COURSE_2>",
