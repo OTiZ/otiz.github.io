@@ -8,7 +8,9 @@ deployment:
   production:
     branch: master
     commands:
-      - npm install -g firebase-tools
-      - firebase init
-      - firebase use --token $FIREBASE_TOKEN production
-      - firebase deploy --non-interactive --token $FIREBASE_TOKEN
+      - deploy:
+         name: Deploy Master to Firebase
+         command: |
+          if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            ./node_modules/.bin/firebase deploy --token=$FIREBASE_DEPLOY_TOKEN
+          fi
