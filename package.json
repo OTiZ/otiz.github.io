@@ -43,6 +43,7 @@
     "eslint": "^4.0.0",
     "eslint-config-suddi": "^4.0.0",
     "eslint-plugin-react": "^7.0.1",
+    "firebase-tools": "^3.12.0",
     "husky": "^0.14.0",
     "moment": "^2.17.0",
     "nsp": "^2.0.0",
