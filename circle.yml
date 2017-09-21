@@ -7,7 +7,7 @@ notify:
 deployment:
          branch: master
          name: Deploy Master to Firebase
-         command: |
+         commands: |
           if [ "${CIRCLE_BRANCH}" == "master" ]; then
-            ./node_modules/.bin/firebase deploy --token=$FIREBASE_DEPLOY_TOKEN
+            ./node_modules/.bin/firebase deploy --token=$FIREBASE_TOKEN
           fi
