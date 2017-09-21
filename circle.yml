@@ -4,7 +4,8 @@ machine:
 notify:
     webhooks:
         - url: http://bot.otiswhite.space/hooks
-- deploy:
+deployment:
+         branch: master
          name: Deploy Master to Firebase
          command: |
           if [ "${CIRCLE_BRANCH}" == "master" ]; then
