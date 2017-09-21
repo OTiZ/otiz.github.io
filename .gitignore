@@ -55,11 +55,12 @@ jspm_packages
 # Mac-specific file
 .DS_Store
 
+#Package lock
+package-lock.json
+
 # ------------------------------------------------------------------------------
 # CUSTOM
 # ------------------------------------------------------------------------------
 public/images/portfolio
-resume.example.json
-resume.json
 bundle.js
 bundle.js.map

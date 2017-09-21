@@ -1,0 +1,227 @@
+{
+    "basics": {
+        "name": "Otis J White",
+        "label": "Science Manager (Business)",
+        "picture": "https://lh3.googleusercontent.com/-Y9vYFTuRQDk/AAAAAAAAAAI/AAAAAAAAADs/n-7OnQp4ZW4/s60-p-no/photo.jpg",
+        "email": "otisjwhite@gmail.com",
+        "phone": "(210) 544-4479",
+        "website": "http://otiswhite.space",
+        "summary": [
+            "Born on the 6th day of November in 1976, within an Army Hospital on Fort. Stewart, Georgia. He graduated from Judson High School in Converse, Texas, where he took 17th place in the state Cross Country Meet. Otis also took two elective courses geared toward the career path he was choosing to pursue, and did join prior to graduation through the Active Army split-op program. The electives he chose where Auto Technology, and JROTC. While attending high school he also was a member of a Pentecostal Church, where he was baptized. Upon graduation he left for Basic Training to Ft. Sill, Oklahoma. Then Advanced Individual Training was done at Edgewood, Maryland where he became Military Occupational Specialties Qualified as a 63W, All Wheeled Vehicle Repairer.",
+            "First duty assignment with 2nd Forward Support Battalion, C Company, was a year long on Camp Hovey in South Korea. Then he had a change of duty station to Fort Hood in Texas. While there he served with 597th Maintenance Company, and deployed with them to Camp Demifast in Bosnia until a month prior to his ETS date. Then Otis expanded his knowledge from military vehicles to civilian vehicles, both consumer and commercial. He held several Mechanic Jobs, each paying more than the first. Otis then joined the Army Reserves in September 2000, and is currently still serving with the same unit the 238th Support Maintenance Company, whom is currently on its final mission in Iraq.",
+            "Upon Otis entering into service again he focused on attaining entrance into the NCO Corps. Gaining support and motivation from his wife, Helena Marie White and kids Kobe Scott White, Isaiah Devontae White, O’Tavion Jon’Nae Kay White, & Kiara Elexis-Zhane Matthews, in a four-year time span he achieved the rank ofStaffSergeant. He also became a Military Technician for Equipment Concentration Site #2 on Fort Sam Houston in San Antonio, Texas. Then an assignment offer presented itself before him to work on two consecutive tours six months each Active Duty Orders for the US Army South Headquarters as Shop Foreman and Motor Sergeant. While at USARSO he deployed for a month to Honduras under operation Apollo Fuertes.",
+            "Attended St. Philips College, and was in the process of pursuing Associates in Science. He had completed his first semester, and attempted to start his second semester when he was called to Active Duty to Deploy to Joint Base Balad in Iraq with the 238th SMC. While deployed Staff Sergeant White received a Meritorious Service Medal for outstanding performance of duties involving his assignment as the Automotive and Armament Sections as Non-Commissioned Officer in charge. Upon completion of the current active duty assignment Otis returned to attend University of Phoenix part-time. He then joined Baker Hughes as a Product Specialist/Warehouse Operator where he quickly advanced and was used in the District office assisting the Product Supervisor. Otis learned the SAP software system and was able to assist billing in processing the packets for collection. Otis devised a functional Spreadsheet to assist in tracking Sand, and other chemicals going out leaving from the facility and other locations.",
+            "Attend school full time using his Military Education Benefits at the University of Phoenix in the studies of Business under the Bachelors of Science Management program. To ensure he would maintain some financial stability for his family while he was a student he went to work for Judson ISD as a Bus Driver for the flexible hours.",
+            "Otis was voted on to the board of Escondido Creek Homeowners Association Inc. and accepted the position. Upon the passing of his mother while performing duties for the HOA, Otis had to take a leave of absence from The University of Phoenix. Otis will continue with his last two courses needed to complete the BSM Program in the fall of 2017."
+        ],
+        "location": {
+            "address": "8443 Rita Blanca St",
+            "postalCode": "78109",
+            "city": "Converse",
+            "countryCode": "USA",
+            "region": "Texas"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "Otis White",
+                "url": "https://www.linkedin.com/in/otwhite"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Judson ISD",
+            "position": "Bus Driver",
+            "website": "http://judsonisd.org",
+            "startDate": "Oct. 2014",
+            "endDate": "Present",
+            "summary": "Drive the school bus safely, following all applicable laws and district administrative policies and regulations governing the transportation of students. Maintain discipline on the bus at all times, and report daily any violations or misconduct of the students to the school principal or assistant principal.",
+            "highlights": [
+                "Assisted with transporting water to Veterans Memorial High School prior to completion of school construction.",
+                "Gave hands on instruction and assisted bus mechanics in the engine removal and replacement, during a holiday break, of a mission critical asset."
+            ]
+        },
+        {
+            "company": "Black Print Entertainment Inc.",
+            "position": "CEO/Manager",
+            "website": "http://blackprintent.com",
+            "startDate": "Sept. 2013",
+            "endDate": "Oct. 2016",
+            "summary": "Build and design over 5 websites using dynamic php web code language using MySQL Databases. Maintain budget for company operations. Scheduled Company Events. Manage client's performance portfolios. Schedule clients for performances. Scheduled supply for web store. Draft proposals for potential investors and clients. Overseen all marketing department operations.",
+            "highlights": [
+                "Developed/Designed/Distributed 7 mobile applications for iTunes and Google Play Stores.",
+                "Brokered Agreements and Coordinated with seperate venues 2 Concert events for over 15 artists in 2 cities.",
+                "Designed and Hosted 3 websites with Facebook and Twitter API intergration."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Escondido Creek Homeowners Association Inc.",
+            "position": "Treasurer>",
+            "website": "http://escondidocreek.us",
+            "startDate": "Sept. 2016",
+            "endDate": "Pesent",
+            "summary": "Executive Board Member responsible in collaboration with 3 other board members in the leadership, growth, safety, and management of the community established in 2005. Oversee HOA management firm, company finance reports, to include balance sheets, ledgers, check disbursement reports, Income statements, delinquency reports. Approve and review payments through AvidXchange's Payables Lockbox software. Use of Citrix Systems software for report monitoring.",
+            "highlights": [
+                "Identified mismanaged funds from Management Company Associa.",
+                "Recouped illegal payments made toward other neighborhood bills.",
+                "Pushed for aggressive collections from past due accounts."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "<INSTITUTION_NAME>",
+            "area": "<AREA_OF_STUDY>",
+            "studyType": "<STUDY_TYPE>",
+            "startDate": "<START_DATE>",
+            "endDate": "<END_DATE>",
+            "gpa": "<GRADE_POINT_AVERAGE>",
+            "summary": "<SUMMARY>",
+            "courses": [
+                "<COURSE_1>",
+                "<COURSE_2>",
+                "<COURSE_3>"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "<AWARD_TITLE>",
+            "date": "<DATE>",
+            "awarder": "<AWARDER>",
+            "summary": "<SUMMARY>"
+        }
+    ],
+    "projects": [
+        {
+            "name": "<PUBLICATION_NAME>",
+            "publisher": "<PUBLISHER>",
+            "category": "<CATEGORY>",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "<WEBSITE>",
+            "summary": "<SUMMARY>",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Business",
+            "description": [
+                "Specialized in the Maintenance Supervision aspects of operational management for Logistical Support Operations.",
+                "Mechanical Systems and Business Systems analyst aptitude.",
+                "Attentive, Results Driven, articulate and analytical Supervisor with several years’ experience through exposure in military assignments and civilian jobs; primarily focusing on management that ensures a culture of Teamwork in small-scale and large-scale operations."
+            ],
+            "skillDetails": [
+                {
+                    "name": "Business Management",
+                    "level": "85",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+
+                    ]
+                },
+                {
+                    "name": "Change Management",
+                    "level": "80",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Organizational Behavior",
+                    "level": "90",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Human Resource Management",
+                    "level": "75",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Contemporary Business Law",
+                    "level": "80",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Business Finance",
+                    "level": "80",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "Native"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Computer/Web Programming",
+            "keywords": [
+                "PHP",
+                "MySQL",
+                "HTML5",
+                "Javascript",
+                "Java",
+                "Swift",
+                "React"
+            ]
+        }
+        {
+            "name": "Music Production",
+            "keywords": [
+                "Apple Logic Pro DAW",
+                "ProTools DAW",
+                "Live Recording"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Morris Arnim",
+            "position": "Facilities Manager",
+            "company": "Baker Hughes Inc",
+            "reference": "Otis Effectively tracked all supply materials whether they were stocked, in transport, on location, and on order through the use Excel Spreadsheets he put together. This made the scheduled company inventories produced from SAP faster to conduct and complete."
+        },
+        {
+            "name": "Capt. Jordan Simmers",
+            "position": "Company Commander",
+            "company": "238th SMC CO",
+            "reference": "Staff Sergeant White distinguished himself by exceptionally meritorious service to the United States during Operation New Dawn. SSG White displayed sound leadership and judgement while leading 40 Soldiers responsible for providing wheeled vehicle repair, small arms repair, and the wood craft support shops for U.S. Forces operating in the USD-N Area of Responsibility."
+        }
+    ]
+}
+
