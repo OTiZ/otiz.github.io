@@ -5,9 +5,5 @@ notify:
     webhooks:
         - url: http://bot.otiswhite.space/hooks
 deployment:
-         branch: master
-         name: Deploy Master to Firebase
          command: |
-          if [ "${CIRCLE_BRANCH}" == "master" ]; then
-            ./node_modules/.bin/firebase deploy --token=$FIREBASE_TOKEN
-          fi
+          firebase deploy --token=$FIREBASE_TOKEN
