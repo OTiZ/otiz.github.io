@@ -9,9 +9,4 @@ dependencies:
   post:
     - npm run bundle
     - npm run bundle2
-
-deployment:
-         branch: master
-         name: Deploy Master to Firebase
-         command: |
-          - ./node_modules/.bin/firebase deploy --token=$FIREBASE_TOKEN
+    - firebase deploy --token=$FIREBASE_TOKEN
