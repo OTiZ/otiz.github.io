@@ -18,6 +18,7 @@ function getNavigation() {
         work: 'Work',
         volunteer: 'Volunteer',
         education: 'Education',
+        awards: 'Awards',
         skill: 'Skills',
         portfolio: 'Portfolio',
         testimonials: 'References'
