@@ -49,7 +49,9 @@ const Home = React.createClass({
                 <Section
                     basics={this.state.resume.basics}
                     work={this.state.resume.work}
+                    volunteer={this.state.resume.volunteer}
                     education={this.state.resume.education}
+                    awards={this.state.resume.awards}
                     skills={this.state.resume.skills}
                     languages={this.state.resume.languages}
                     portfolio={this.state.resume.projects}
