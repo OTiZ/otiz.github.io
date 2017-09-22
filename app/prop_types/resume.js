@@ -104,7 +104,10 @@ module.exports.awards = PropTypes.shape({
     title: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
     awarder: PropTypes.string.isRequired,
-    summary: PropTypes.string.isRequired
+    website: PropTypes.string.isRequired,
+    summary: PropTypes.string.isRequired,
+    image: module.exports.image,
+    keywords: module.exports.bulletPoints
 });
 module.exports.awardsSet = PropTypes.arrayOf(
     module.exports.awards
