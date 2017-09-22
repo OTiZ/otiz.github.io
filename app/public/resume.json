@@ -34,7 +34,7 @@
             "company": "Judson ISD",
             "position": "Bus Driver",
             "website": "http://judsonisd.org",
-            "startDate": "Oct. 2014",
+            "startDate": "Oct 2014",
             "endDate": "Present",
             "summary": "Drive the school bus safely, following all applicable laws and district administrative policies and regulations governing the transportation of students. Maintain discipline on the bus at all times, and report daily any violations or misconduct of the students to the school principal or assistant principal.",
             "highlights": [
@@ -46,22 +46,61 @@
             "company": "Black Print Entertainment Inc.",
             "position": "CEO/Manager",
             "website": "http://blackprintent.com",
-            "startDate": "Sept. 2013",
-            "endDate": "Oct. 2016",
+            "startDate": "Sept 2013",
+            "endDate": "Oct 2016",
             "summary": "Build and design over 5 websites using dynamic php web code language using MySQL Databases. Maintain budget for company operations. Scheduled Company Events. Manage client's performance portfolios. Schedule clients for performances. Scheduled supply for web store. Draft proposals for potential investors and clients. Overseen all marketing department operations.",
             "highlights": [
                 "Developed/Designed/Distributed 7 mobile applications for iTunes and Google Play Stores.",
                 "Brokered Agreements and Coordinated with seperate venues 2 Concert events for over 15 artists in 2 cities.",
                 "Designed and Hosted 3 websites with Facebook and Twitter API intergration."
             ]
-        }
+        },
+        {
+            "company": "Baker Hughes Inc.",
+            "position": "Product Specialist",
+            "website": "http://bakerhughes.com",
+            "startDate": "Sept 2013",
+            "endDate": "Oct 2016",
+            "summary": "Managed inventory accountability of over 200 chemical products manually and by computer through the use of Excel Spreadsheets and SAP software. Ensured transport vendors Purchase Orders were created and invoiced. Assisted billing with issues arising with the use of SAP to account for inventory product codes. Through the use of Powervision software performed Inventory reconciliations. Performed quality assurance checks on dry cement Bulk Plant to ensure all maintenance was correctly inspected, performed and documented. Coordination of the transport of Hazmat chemicals cargo, IAW TxDot laws and regulations to and from yard and well sites.",
+            "highlights": [
+                "Attended and Completed training on Innovative Vacuum System operated Cement Bulk Plant for operation and repair.",
+                "Created Excel Spreadsheet Workbook for Tracking Well servicing chemicals and sand for the San Antonio Facility."
+            ]
+        },
+        {
+            "company": "US Army Reserves",
+            "position": "E6 Staff Sergeant",
+            "website": "http://goarmy.com",
+            "startDate": "Sept 2000",
+            "endDate": "Oct 2013",
+            "summary": "Build and design over 5 websites using dynamic php web code language using MySQL Databases. Maintain budget for company operations. Scheduled Company Events. Manage client's performance portfolios. Schedule clients for performances. Scheduled supply for web store. Draft proposals for potential investors and clients. Overseen all marketing department operations.",
+            "highlights": [
+                "In 2009, Attached to US Army South Command (USARSO) as Shop Foreman/Motorpool Sargent with a deployment to Honduras.",
+                "In 2010, Deployed to Iraq with 238th Support Maintenance Company as Maintenance Supervisor for the Convoy Maintenance, Armament, and Wood Shops on Joint Base Ballad/Annaconda",
+                "Attended Mine-Resistant Ambush Protected (MRAP) University in Texarka Arkansas",
+                "Attended Vehicle Recovery Course for additional Military Occupational Speciality Duty Identifier.",
+                "Taught Electrical Troubleshooting Course for 12 soldiers that was entered into their ARMY/ACE REGISTRY TRANSCRIPT SYSTEM for college course credit."
+            ]
+        },
+        {
+            "company": "Econo Lube n Tune",
+            "position": "Store Manager",
+            "website": "https://www.econolube.com",
+            "startDate": "June 2001",
+            "endDate": "Sept 2002",
+            "summary": "Examined vehicles to determine the extent of damage or malfunctions. Communicated with customers regarding vehicle issues and potential repairs. Operated pneumatic tools and air compressors. Organized work records and filed reports. Complied with state vehicle requirements, including engine safety and combustion control standards. Ordered accurate amounts of parts and supplies to maintain necessary inventory. Successfully managed the activities of 4-10 team members in multiple locations. Reduced employee turnover rate in a usually high-turnover environment. Recruited, managed and mentored service technicians and customer service advisers. Identified employee strengths and maximized growth and potential by performing daily training exercises. Tracked customer experience through public tools.",
+            "highlights": [
+                "Was constantly called upon by District Manager to assist in training other Managers and their teams.",
+                "Cultivated intense customer service culture in store by giving weekly customer service tips to other stores during employment."
+            ]
+        },
     ],
     "volunteer": [
         {
             "organization": "Escondido Creek Homeowners Association Inc.",
             "position": "Treasurer",
             "website": "http://escondidocreek.us",
-            "startDate": "Sept. 2016",
+            "startDate": "Sept 2016",
             "endDate": "Present",
             "summary": "Executive Board Member responsible in collaboration with 3 other board members in the leadership, growth, safety, and management of the community established in 2005. Oversee HOA management firm, company finance reports, to include balance sheets, ledgers, check disbursement reports, Income statements, delinquency reports. Approve and review payments through AvidXchange's Payables Lockbox software. Use of Citrix Systems software for report monitoring.",
             "highlights": [
@@ -90,7 +129,7 @@
     "awards": [
         {
             "title": "Meritorious Service Medal",
-            "date": "27 Sept. 2011",
+            "date": "Sept 2011",
             "awarder": "Brigadier General Don S. Cornett, Jr.",
             "summary": "For Deployment in Iraq as Maintenance NCOIC"
         }
@@ -100,7 +139,7 @@
             "name": "The Inc'd Mag",
             "publisher": "Black Print Entertainment Inc.",
             "category": "Magazine",
-            "releaseDate": "Oct. 2014",
+            "releaseDate": "Oct 2014",
             "website": "https://itunes.apple.com/us/book/the-incd-mag/id915288406?mt=11",
             "summary": "Urban Music Mag",
             "image": {
@@ -138,8 +177,8 @@
             "website": "https://itunes.apple.com/us/album/noonessafe-music-is-my-b-a-e-basic-artistic-expression/id1042818360",
             "summary": "Produced LP for Artist Helena Marie and Black Print Entertainment",
             "image": {
-                "modal": "http://blackprintent.com/wp-content/uploads/2015/09/400x400xc087cfe9ef07eabe6bd89064b8e02306.png.pagespeed.ic_.1442330538.png",
-                "thumb": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/51/fb/e8/51fbe8d1-bcb5-a832-28d3-933c69ffae65/source/146x0w.jpg"
+                "modal": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/51/fb/e8/51fbe8d1-bcb5-a832-28d3-933c69ffae65/source/313x0w.jpg",
+                "thumb": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/51/fb/e8/51fbe8d1-bcb5-a832-28d3-933c69ffae65/source/313x0w.jpg"
             },
             "keywords": [
                 "Music Distribution",
