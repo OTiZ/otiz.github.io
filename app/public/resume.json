@@ -59,10 +59,10 @@
     "volunteer": [
         {
             "organization": "Escondido Creek Homeowners Association Inc.",
-            "position": "Treasurer>",
+            "position": "Treasurer",
             "website": "http://escondidocreek.us",
             "startDate": "Sept. 2016",
-            "endDate": "Pesent",
+            "endDate": "Present",
             "summary": "Executive Board Member responsible in collaboration with 3 other board members in the leadership, growth, safety, and management of the community established in 2005. Oversee HOA management firm, company finance reports, to include balance sheets, ledgers, check disbursement reports, Income statements, delinquency reports. Approve and review payments through AvidXchange's Payables Lockbox software. Use of Citrix Systems software for report monitoring.",
             "highlights": [
                 "Identified mismanaged funds from Management Company Associa.",
@@ -74,7 +74,7 @@
     "education": [
         {
             "institution": "University of Phoenix",
-            "area": "Bachelors",
+            "area": "Bachelors Science Management (Business)",
             "studyType": "Science Management (Business)",
             "startDate": "Mar 2012",
             "endDate": "Still Attending",
@@ -111,6 +111,40 @@
                 "ISSN:2374-6432",
                 "Music",
                 "Producers/Artists/DJ's"
+            ]
+        },
+        {
+            "name": "Crab Smash",
+            "publisher": "Black Print Entertainment Inc.",
+            "category": "Games",
+            "releaseDate": "May 2015",
+            "website": "https://play.google.com/store/apps/details?id=com.blackprintent.GetSmashed&hl=en",
+            "summary": "Android Google Play App",
+            "image": {
+                "modal": "https://lh3.googleusercontent.com/0U23p69f8_Cigj7oBRyONUvUdi2LiUqcbi_To_xoLFJgvlRs_gBeNNPcM5H-QP_Ja3Md=h310",
+                "thumb": "https://lh3.googleusercontent.com/E6Hu-1le66jGP7JqS1y0dv6xvIzbUUf6QwcLCP88nrHughlmJB_T3biubhKIwYse0EY=w300"
+            },
+            "keywords": [
+                "Game",
+                "Google Play",
+                "Mobile App"
+            ]
+        },
+        {
+            "name": "#NoOnesSafe Music Is My B.A.E. (Basic Artistic Expression)",
+            "publisher": "Black Print Entertainment Inc.",
+            "category": "Music Production",
+            "releaseDate": "May 2015",
+            "website": "https://itunes.apple.com/us/album/noonessafe-music-is-my-b-a-e-basic-artistic-expression/id1042818360",
+            "summary": "Produced LP for Artist Helena Marie and Black Print Entertainment",
+            "image": {
+                "modal": "http://blackprintent.com/wp-content/uploads/2015/09/400x400xc087cfe9ef07eabe6bd89064b8e02306.png.pagespeed.ic_.1442330538.png",
+                "thumb": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/51/fb/e8/51fbe8d1-bcb5-a832-28d3-933c69ffae65/source/146x0w.jpg"
+            },
+            "keywords": [
+                "Music Distribution",
+                "Production",
+                "Mixing/Mastering"
             ]
         }
     ],
