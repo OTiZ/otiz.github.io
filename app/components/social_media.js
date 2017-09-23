@@ -38,7 +38,7 @@ const SocialMedia = React.createClass({
                     const icon = mapIcon(profile.network.toLowerCase());
                     return (
                         <li key={index}>
-                            <a href={profile.url}>
+                            <a href={profile.url}target='_blank'>
                                 {icon}
                             </a>
                         </li>
