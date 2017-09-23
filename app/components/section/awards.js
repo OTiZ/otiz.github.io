@@ -4,14 +4,13 @@ const React = require('react');
 const PropTypes = React.PropTypes;
 
 const ResumePropTypes = require('../../prop_types/resume');
-const BulletPoints = require('../bullet_points');
 const Datetime = require('../../utils/datetime');
 
 const Entry = React.createClass({
     propTypes: {
         index: PropTypes.number.isRequired,
         total: PropTypes.number.isRequired,
-        entry: ResumePropTypes.work
+        entry: ResumePropTypes.awards
     },
 
     render: function () {
@@ -24,16 +23,15 @@ const Entry = React.createClass({
             <div className='row item'>
                 <div className='twelve columns'>
                     <h3>
-                        <a href={this.props.entry.website}>{this.props.entry.company}</a>
+                        <a href={this.props.entry.website}>{this.props.entry.title}</a>
                     </h3>
                     <p className='info'>
-                        {this.props.entry.position}
+                        {this.props.entry.awarder}
                         <span> &bull; </span>
                         <span className='info-summary'>{this.props.entry.summary}</span>
                         <span> &bull; </span>
-                        <em className='date'>{startDate} - {endDate}</em>
+                        <em className='date'>{startDate}</em>
                     </p>
-                    <BulletPoints points={this.props.entry.highlights}/>
                 </div>
                 {divider}
             </div>
