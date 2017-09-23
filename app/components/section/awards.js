@@ -1,52 +1,41 @@
 'use strict';
 
 const React = require('react');
+const PropTypes = React.PropTypes;
 
 const ResumePropTypes = require('../../prop_types/resume');
-const Random = require('../../utils/random');
-const Modal = require('./modal');
+const BulletPoints = require('../bullet_points');
+const Datetime = require('../../utils/datetime');
 
 const Entry = React.createClass({
     propTypes: {
-        entry: ResumePropTypes.awards
-    },
-
-    getInitialState: function () {
-        return {
-            modalOpen: false
-        };
-    },
-
-    handleOpenModal: function () {
-        return this.setState({
-            modalOpen: true
-        });
-    },
-
-    handleCloseModal: function () {
-        return this.setState({
-            modalOpen: false
-        });
+        index: PropTypes.number.isRequired,
+        total: PropTypes.number.isRequired,
+        entry: ResumePropTypes.work
     },
 
     render: function () {
+        const startDate = Datetime.getDisplayFromDate(this.props.entry.startDate);
+        const endDate = Datetime.getDisplayFromDate(this.props.entry.endDate);
+        const index = this.props.index + 1;
+        const divider = index === this.props.total ? (<br/>) : (<hr/>);
+
         return (
-            <div className='columns awards-item'>
-                <div className='item-wrap' onClick={this.handleOpenModal}>
-                    <img
-                        src={this.props.entry.image.thumb}
-                        alt={this.props.entry.title}/>
-                    <div className='overlay'>
-                        <div className='awards-item-meta'>
-                            <h5>{this.props.entry.title}</h5>
-                            <p>{this.props.entry.awarder}</p>
-                        </div>
-                    </div>
-                    <div className='link-icon'>
-                        <i className='icon-down-open'/>
-                    </div>
+            <div className='row item'>
+                <div className='twelve columns'>
+                    <h3>
+                        <a href={this.props.entry.website}>{this.props.entry.company}</a>
+                    </h3>
+                    <p className='info'>
+                        {this.props.entry.position}
+                        <span> &bull; </span>
+                        <span className='info-summary'>{this.props.entry.summary}</span>
+                        <span> &bull; </span>
+                        <em className='date'>{startDate} - {endDate}</em>
+                    </p>
+                    <BulletPoints points={this.props.entry.highlights}/>
                 </div>
-                <Modal entry={this.props.entry} isOpen={this.state.modalOpen} onRequestClose={this.handleCloseModal}/>
+                {divider}
             </div>
         );
     }
@@ -58,19 +47,21 @@ const Awards = React.createClass({
     },
 
     render: function () {
-        const awards = Random.shuffleArray(this.props.content).slice(0, 8);
+        const numEntries = this.props.content.length;
         return (
             <section id='awards'>
-                <div className='row'>
-                    <div className='twelve columns collapsed'>
-                        <h1>Awards</h1>
-                        <div id='awards-wrapper' className='bgrid-quarters s-bgrid-thirds cf'>
-                            {awards.map(function (entry, index) {
-                                return (
-                                    <Entry key={index} index={index} entry={entry}/>
-                                );
-                            })}
-                        </div>
+                <div className='row awards'>
+                    <div className='two columns header-col'>
+                        <h1>
+                            <span>Awards</span>
+                        </h1>
+                    </div>
+                    <div className='ten columns main-col'>
+                        {this.props.content.map(function (entry, index) {
+                            return (
+                                <Entry key={index} index={index} total={numEntries} entry={entry}/>
+                            );
+                        })}
                     </div>
                 </div>
             </section>
