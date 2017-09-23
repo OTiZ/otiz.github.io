@@ -393,6 +393,63 @@ strong.fa-quora {
    margin: 0 0 10px 0;
 }
 
+/* ------------------------------------------------------------------ */
+/* d. Volunteer Section
+/* ------------------------------------------------------------------ */
+
+#volunteer {
+   padding-top: 72px;
+   padding-bottom: 20px;
+   overflow: hidden;
+}
+
+#volunteer a, #volunteer a:visited  { color: #11ABB0; }
+#volunteer a:hover, #volunteer a:focus { color: #313131; }
+
+#volunteer h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#volunteer h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#volunteer h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#volunteer .header-col { padding-top: 9px; }
+#volunteer .main-col { padding-right: 10%; }
+
+/* ------------------------------------------------------------------ */
+/* d. Awards Section
+/* ------------------------------------------------------------------ */
+
+#awards {
+   padding-top: 72px;
+   padding-bottom: 20px;
+   overflow: hidden;
+}
+
+#awards a, #awards a:visited  { color: #11ABB0; }
+#awards a:hover, #awards a:focus { color: #313131; }
+
+#awards h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#awards h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#awards h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#awards .header-col { padding-top: 9px; }
+#awards .main-col { padding-right: 10%; }
 
 /* ------------------------------------------------------------------ */
 /* d. Skill Section
