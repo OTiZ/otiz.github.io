@@ -24,9 +24,10 @@ const Entry = React.createClass({
             <div className='row item'>
                 <div className='twelve columns'>
                     <h3>
-                        <a href={this.props.entry.website}>{this.props.entry.organization}target='_blank'
+                        <a href={this.props.entry.website}target='_blank'>
+              {this.props.entry.organization}
         </a>
-                    </h3>
+        </h3>
                     <p className='info'>
                         {this.props.entry.position}
                         <span> &bull; </span>
