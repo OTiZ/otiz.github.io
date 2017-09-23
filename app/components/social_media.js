@@ -41,6 +41,7 @@ const SocialMedia = React.createClass({
                             <a href={profile.url}>
                                 {icon}
                             </a>
+                        </p> <h3>LinkedIn Profile</h3>
                         </li>
                     );
                 })}
