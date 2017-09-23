@@ -9,11 +9,8 @@ const Datetime = {
         }
 
         const applyFunc = function (dt) {
-            const d = moment(dt, 'YYYY-MM-DD');
+            const d = moment(dt, 'MMM YYYY');
             const date = d.date();
-            if (date > 20) {
-                return d.add(1, 'months').format('MMM YYYY');
-            }
             return d.format('MMM YYYY');
         };
         const value = applyFunc(datetime);
