@@ -20,7 +20,7 @@ const Footer = React.createClass({
                             <li>
                                 This site uses React.js for&nbsp;
                                 <a
-                                    href='https://otiz.github.io'
+                                    href='http://otiswhite.space'
                                     title='Otis White'
                                     target='_blank'
                                     rel='noopener noreferrer'>
