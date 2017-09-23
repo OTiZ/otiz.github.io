@@ -103,7 +103,7 @@ module.exports.educationSet = PropTypes.arrayOf(
 module.exports.awards = PropTypes.shape({
     title: PropTypes.string.isRequired,
     website: PropTypes.string.isRequired,
-    date: PropTypes.string.isRequired,
+    startDate: PropTypes.string.isRequired,
     awarder: PropTypes.string.isRequired,
     summary: PropTypes.string.isRequired
 });
