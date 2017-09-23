@@ -15,7 +15,6 @@ const Entry = React.createClass({
 
     render: function () {
         const startDate = Datetime.getDisplayFromDate(this.props.entry.startDate);
-        const endDate = Datetime.getDisplayFromDate(this.props.entry.endDate);
         const index = this.props.index + 1;
         const divider = index === this.props.total ? (<br/>) : (<hr/>);
 
