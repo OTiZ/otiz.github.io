@@ -17,4 +17,4 @@
 The site has been shown on the following sites:
 
 * [Github](https://otiz.github.io)
-* [Otis White Website](http://otiswhite.space)
+* [Firebase](https://otis-white-resume.firebaseapp.com)
