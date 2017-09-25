@@ -1,6 +1,6 @@
 {
     "basics": {
-        "name": "Otis J. White",
+        "name": "Otis J White",
         "label": "Science Manager (Business)",
         "picture": "https://lh3.googleusercontent.com/-Y9vYFTuRQDk/AAAAAAAAAAI/AAAAAAAAADs/n-7OnQp4ZW4/s60-p-no/photo.jpg",
         "email": "otisjwhite@gmail.com",
@@ -34,7 +34,7 @@
             "company": "Judson ISD",
             "position": "Bus Driver",
             "website": "http://judsonisd.org",
-            "startDate": "Oct. 2014",
+            "startDate": "October 2014",
             "endDate": "Present",
             "summary": "Drive the school bus safely, following all applicable laws and district administrative policies and regulations governing the transportation of students. Maintain discipline on the bus at all times, and report daily any violations or misconduct of the students to the school principal or assistant principal.",
             "highlights": [
@@ -46,23 +46,75 @@
             "company": "Black Print Entertainment Inc.",
             "position": "CEO/Manager",
             "website": "http://blackprintent.com",
-            "startDate": "Sept. 2013",
-            "endDate": "Oct. 2016",
+            "startDate": "September 2013",
+            "endDate": "October 2016",
             "summary": "Build and design over 5 websites using dynamic php web code language using MySQL Databases. Maintain budget for company operations. Scheduled Company Events. Manage client's performance portfolios. Schedule clients for performances. Scheduled supply for web store. Draft proposals for potential investors and clients. Overseen all marketing department operations.",
             "highlights": [
                 "Developed/Designed/Distributed 7 mobile applications for iTunes and Google Play Stores.",
                 "Brokered Agreements and Coordinated with seperate venues 2 Concert events for over 15 artists in 2 cities.",
                 "Designed and Hosted 3 websites with Facebook and Twitter API intergration."
             ]
+        },
+        {
+            "company": "Baker Hughes Inc.",
+            "position": "Product Specialist",
+            "website": "http://bakerhughes.com",
+            "startDate": "September 2013",
+            "endDate": "October 2016",
+            "summary": "Managed inventory accountability of over 200 chemical products manually and by computer through the use of Excel Spreadsheets and SAP software. Ensured transport vendors Purchase Orders were created and invoiced. Assisted billing with issues arising with the use of SAP to account for inventory product codes. Through the use of Powervision software performed Inventory reconciliations. Performed quality assurance checks on dry cement Bulk Plant to ensure all maintenance was correctly inspected, performed and documented. Coordination of the transport of Hazmat chemicals cargo, IAW TxDot laws and regulations to and from yard and well sites.",
+            "highlights": [
+                "Attended and Completed training on Innovative Vacuum System operated Cement Bulk Plant for operation and repair.",
+                "Created Excel Spreadsheet Workbook for Tracking Well servicing chemicals and sand for the San Antonio Facility."
+            ]
+        },
+        {
+            "company": "US Army Reserves",
+            "position": "E6 Staff Sergeant",
+            "website": "http://goarmy.com",
+            "startDate": "September 2000",
+            "endDate": "October 2013",
+            "summary": "Managed 12 civilians and 26 military personal. Directed shop maintenance process according to established man-hour and maintenance allocation procedures both manually and by computer. Coordinated the tracking of shop operations and meeting all established deadlines. Performed quality assurance checks to ensure all maintenance was correctly inspected, performed and documented. Operated various types of military equipment to include computer scanning equipment, multi-meters, Material Handing Cranes, Mine Resistant Armor Protected Vehicles, and Forklifts. Coordinated squad operational support to a unit of over one hundred fifty personal. Supervised, dispatched, tracked, and ensured the prompt and accurate maintenance of equipment to military personnel in war and peacetime. Conducted supply, and accountability inventories. Prepared documentation and coordinated the transport of equipment. Trained over fifty subordinates in maintenance, army doctrine. Built effective teams that improved the logistical, and maintenance response intervals.",
+            "highlights": [
+                "In 2009, Attached to US Army South Command (USARSO) as Shop Foreman/Motorpool Sargent with a deployment to Honduras.",
+                "In 2010, Deployed to Iraq with 238th Support Maintenance Company as Maintenance Supervisor for the Convoy Maintenance, Armament, and Wood Shops on Joint Base Ballad/Annaconda",
+                "Attended Mine-Resistant Ambush Protected (MRAP) University in Texarka Arkansas",
+                "Attended Vehicle Recovery Course for additional Military Occupational Speciality Duty Identifier.",
+                "Taught Electrical Troubleshooting Course for 12 soldiers that was entered into their ARMY/ACE REGISTRY TRANSCRIPT SYSTEM for college course credit."
+            ]
+        },
+        {
+            "company": "Econo Lube n Tune",
+            "position": "Store Manager",
+            "website": "https://www.econolube.com",
+            "startDate": "June 2001",
+            "endDate": "September 2002",
+            "summary": "Examined vehicles to determine the extent of damage or malfunctions. Communicated with customers regarding vehicle issues and potential repairs. Operated pneumatic tools and air compressors. Organized work records and filed reports. Complied with state vehicle requirements, including engine safety and combustion control standards. Ordered accurate amounts of parts and supplies to maintain necessary inventory. Successfully managed the activities of 4-10 team members in multiple locations. Reduced employee turnover rate in a usually high-turnover environment. Recruited, managed and mentored service technicians and customer service advisers. Identified employee strengths and maximized growth and potential by performing daily training exercises. Tracked customer experience through public tools.",
+            "highlights": [
+                "Was constantly called upon by District Manager to assist in training other Managers and their teams.",
+                "Cultivated intense customer service culture in store by giving weekly customer service tips to other stores during employment."
+            ]
+        },
+        {
+            "company": "Equipment Concentration Site #2",
+            "position": "Wheel Vehicle Repairer",
+            "website": "https://www.opm.gov",
+            "startDate": "September 2002",
+            "endDate": "September 2007",
+            "summary": "Performed maintenance on various Army Reserve equipment as a civilian Waste Grade (WG) 5803 series DOD employee. Troubleshoot and repair mechanical, electrical, pneumatic, and hydraulic systems with and without the use of diagnostic equipment. Use of regular and specialty hand tools and pneumatic tools. Verified all repairs and annotated work completed on work orders. Road test and load test equipment to ensure compliance to standards. Performed minor body work to include welding, sanding, primer, and painting. Repair any HVAC issues with equipment if necessary.",
+            "highlights": [
+                "Trained VSE contractors workorder paperwork process.",
+                "Assisted Tool Supervisor with calibration schedule for specialized tools.",
+                "Wrote The Army Maintenance Management System (TAMMS) and suggested a change to a maintenance produre that was accepted and approved."
+            ]
         }
     ],
     "volunteer": [
         {
             "organization": "Escondido Creek Homeowners Association Inc.",
-            "position": "Treasurer>",
+            "position": "Treasurer",
             "website": "http://escondidocreek.us",
-            "startDate": "Sept. 2016",
-            "endDate": "Pesent",
+            "startDate": "September 2016",
+            "endDate": "Present",
             "summary": "Executive Board Member responsible in collaboration with 3 other board members in the leadership, growth, safety, and management of the community established in 2005. Oversee HOA management firm, company finance reports, to include balance sheets, ledgers, check disbursement reports, Income statements, delinquency reports. Approve and review payments through AvidXchange's Payables Lockbox software. Use of Citrix Systems software for report monitoring.",
             "highlights": [
                 "Identified mismanaged funds from Management Company Associa.",
@@ -74,43 +126,78 @@
     "education": [
         {
             "institution": "University of Phoenix",
-            "area": "Bachelors",
+            "area": "Bachelors Science Management (Business)",
             "studyType": "Science Management (Business)",
-            "startDate": "Mar 2012",
+            "startDate": "March 2012",
             "endDate": "Still Attending",
             "gpa": "2.51",
             "summary": "Currently completed 95% of the BSM program and obtained 114 credits. Received high scores in Upper Level Division courses, Organizational Behavior for Managers, Finance for Business, Macroeconomics, and Managing Change in the Workplace.",
             "courses": [
-                "<COURSE_1>",
-                "<COURSE_2>",
-                "<COURSE_3>"
+                "ECO/372",
+                "MGT/312",
+                "MGT/426"
             ]
         }
     ],
     "awards": [
         {
-            "title": "<AWARD_TITLE>",
-            "date": "<DATE>",
-            "awarder": "<AWARDER>",
-            "summary": "<SUMMARY>"
+            "title": "Meritorious Service Medal",
+            "startDate": "September 2011",
+            "awarder": "Brigadier General Don S. Cornett, Jr.",
+            "website": "https://otis-white-resume.firebaseapp.com/public/images/background.jpg",
+            "summary": "For Meritorious Service while deployed in Iraq as Maintenance NCOIC"
         }
     ],
     "projects": [
         {
-            "name": "<PUBLICATION_NAME>",
-            "publisher": "<PUBLISHER>",
-            "category": "<CATEGORY>",
-            "releaseDate": "<RELEASE_DATE>",
-            "website": "<WEBSITE>",
-            "summary": "<SUMMARY>",
+            "name": "The Inc'd Mag",
+            "publisher": "Black Print Entertainment Inc.",
+            "category": "Magazine",
+            "releaseDate": "October 2014",
+            "website": "https://itunes.apple.com/us/book/the-incd-mag/id915288406?mt=11",
+            "summary": "Urban Music Mag",
             "image": {
-                "modal": "<MODAL_IMAGE>",
-                "thumb": "<THUMBNAIL_IMAGE>"
+                "modal": "http://is4.mzstatic.com/image/thumb/Publication1/v4/55/85/75/55857567-4bc1-e804-7d84-347fde8d13aa/source/225x225bb.jpg",
+                "thumb": "http://is4.mzstatic.com/image/thumb/Publication1/v4/55/85/75/55857567-4bc1-e804-7d84-347fde8d13aa/source/225x225bb.jpg"
             },
             "keywords": [
-                "<KEYWORD_1>",
-                "<KEYWORD_2>",
-                "<KEYWORD_3>"
+                "ISSN:2374-6432",
+                "Music",
+                "Producers/Artists/DJ's"
+            ]
+        },
+        {
+            "name": "Crab Smash",
+            "publisher": "Black Print Entertainment Inc.",
+            "category": "Games",
+            "releaseDate": "May 2015",
+            "website": "https://play.google.com/store/apps/details?id=com.blackprintent.GetSmashed&hl=en",
+            "summary": "Android Google Play App",
+            "image": {
+                "modal": "https://lh3.googleusercontent.com/0U23p69f8_Cigj7oBRyONUvUdi2LiUqcbi_To_xoLFJgvlRs_gBeNNPcM5H-QP_Ja3Md=h310",
+                "thumb": "https://lh3.googleusercontent.com/E6Hu-1le66jGP7JqS1y0dv6xvIzbUUf6QwcLCP88nrHughlmJB_T3biubhKIwYse0EY=w300"
+            },
+            "keywords": [
+                "Game",
+                "Google Play",
+                "Mobile App"
+            ]
+        },
+        {
+            "name": "#NoOnesSafe Music Is My B.A.E. (Basic Artistic Expression)",
+            "publisher": "Black Print Entertainment Inc.",
+            "category": "Music Production",
+            "releaseDate": "May 2015",
+            "website": "https://itunes.apple.com/us/album/noonessafe-music-is-my-b-a-e-basic-artistic-expression/id1042818360",
+            "summary": "Produced LP for Artist Helena Marie and Black Print Entertainment",
+            "image": {
+                "modal": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/51/fb/e8/51fbe8d1-bcb5-a832-28d3-933c69ffae65/source/313x0w.jpg",
+                "thumb": "https://is3-ssl.mzstatic.com/image/thumb/Music6/v4/51/fb/e8/51fbe8d1-bcb5-a832-28d3-933c69ffae65/source/313x0w.jpg"
+            },
+            "keywords": [
+                "Music Distribution",
+                "Production",
+                "Mixing/Mastering"
             ]
         }
     ],
@@ -224,4 +311,3 @@
         }
     ]
 }
-
