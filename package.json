@@ -41,7 +41,7 @@
     "babel-core": "^6.0.0",
     "babel-loader": "^7.0.0",
     "babel-preset-react": "^6.0.0",
-    "eslint": "^4.0.0",
+    "eslint": "^4.12.1",
     "eslint-config-suddi": "^4.0.7",
     "eslint-plugin-react": "^7.0.1",
     "firebase-tools": "^3.12.0",
