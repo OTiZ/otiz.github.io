@@ -38,10 +38,10 @@ const Entry = React.createClass({
         return (
             <li>
                 <span
-                    className={'bar-expand percentage' + this.props.entry.level}
+                    className={`bar-expand percentage${this.props.entry.level}`}
+                    style={this.state.style}
                     onMouseEnter={this.handleMouseEnter}
-                    onMouseLeave={this.handleMouseLeave}
-                    style={this.state.style}/>
+                    onMouseLeave={this.handleMouseLeave}/>
                 <em>{this.props.entry.name}</em>
             </li>
         );
@@ -52,9 +52,7 @@ const Skill = React.createClass({
     propTypes: {
         title: PropTypes.string.isRequired,
         content: ResumePropTypes.languagesSet,
-        summary: PropTypes.arrayOf(
-            PropTypes.string
-        ).isRequired
+        summary: PropTypes.arrayOf(PropTypes.string).isRequired
     },
 
     render: function () {
